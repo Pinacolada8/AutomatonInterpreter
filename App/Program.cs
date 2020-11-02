@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 using System.IO;
 using App.Extensions;
 using App.Logging;
@@ -13,7 +14,6 @@ namespace App
         public static void Main(string[] args)
         {
             LogController.Setup();
-
             var logger = LogController.GetLogger();
 
             if (args == null || args.Length < 1)
