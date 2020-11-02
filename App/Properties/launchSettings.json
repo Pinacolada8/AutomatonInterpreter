@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "App": {
+      "commandName": "Project",
+      "commandLineArgs": "Examples\\example1.json"
+    }
+  }
+}
