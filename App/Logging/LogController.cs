@@ -1,6 +1,5 @@
 ﻿using System;
 using NLog;
-using NLog.Conditions;
 using NLog.Config;
 using NLog.Targets;
 

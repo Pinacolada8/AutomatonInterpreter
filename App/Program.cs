@@ -13,12 +13,11 @@ namespace App
         public static void Main(string[] args)
         {
             LogController.Setup();
-
             var logger = LogController.GetLogger();
 
             if (args == null || args.Length < 1)
             {
-                logger.Error(@"Missing input file argument");
+                logger.Info(@"Usar: ./apd [APD]");
                 System.Environment.Exit((int)ReturnCodes.MISSING_FILE_ARGUMENT);
                 return;
             }
