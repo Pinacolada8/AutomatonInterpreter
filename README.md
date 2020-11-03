@@ -119,5 +119,5 @@ If you have questions, concerns, bug reports, etc, please file an issue in this 
 
 ## Credits and references
 
-1. Project made as a homework for "TÓPICOS ESPECIAIS EM PROGRAMAÇÃO DE COMPUTADORES: PROGRAMAÇÃO LINUX" class of CEFET-MG college.
+1. Project made as a homework for "LINGUAGENS FORMAIS E AUTÔMATOS" class of CEFET-MG college.
 2. Project GitHub [GitHub](https://github.com/Pinacolada8/AutomatonInterpreter)
