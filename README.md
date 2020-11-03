@@ -107,6 +107,10 @@ For custom compilation settings search [.Net Build Instructions](https://docs.mi
 
 ----
 
+## Contributors
+
+- Matheus Dutra Cerbino
+
 ## ISSUES
 
 If you have questions, concerns, bug reports, etc, please file an issue in this repository's Issue Tracker.
@@ -116,3 +120,4 @@ If you have questions, concerns, bug reports, etc, please file an issue in this 
 ## Credits and references
 
 1. Project made as a homework for "TÓPICOS ESPECIAIS EM PROGRAMAÇÃO DE COMPUTADORES: PROGRAMAÇÃO LINUX" class of CEFET-MG college.
+2. Project GitHub [GitHub](https://github.com/Pinacolada8/AutomatonInterpreter)
